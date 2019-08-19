@@ -1,0 +1,18 @@
+
+\squid:S1444";Make this "public static purchasedTicketsTable" field final(¾ïÚûÿÿÿÿ8¬É¦Ê-
+2squid:S2386"Make this member "protected".(ÈìËˆ
+squid:S1319"}The type of the "purchasedTicketsTable" object should be an interface such as "Set" rather than the implementation "HashSet".(¾ïÚûÿÿÿÿ8¤Âµ¦Ê-
+™"squid:ClassVariableVisibilityCheck"aMake purchasedTicketsTable a static final constant or non-public and provide accessors if needed.(¾ïÚûÿÿÿÿ8¬É¦Ê-
+Jsquid:S1444"5Make this "public static auditoriumTable" field final(ÈìËˆ
+Xsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¤Âµ¦Ê-
+‚"squid:ClassVariableVisibilityCheck"VMake usersTable a static final constant or non-public and provide accessors if needed.(Ùÿû
+ˆ"squid:ClassVariableVisibilityCheck"WMake eventsTable a static final constant or non-public and provide accessors if needed.(Í÷ Ÿúÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"[Make auditoriumTable a static final constant or non-public and provide accessors if needed.(ÈìËˆ
+Esquid:S1444"0Make this "public static usersTable" field final(Ùÿû
+squid:S1319"rThe type of the "usersTable" object should be an interface such as "Set" rather than the implementation "HashSet".(Ùÿû8ç’µ¦Ê-
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(»­Ç»ıÿÿÿÿ
+–squid:S1319"zThe type of the "auditoriumTable" object should be an interface such as "List" rather than the implementation "ArrayList".(ÈìËˆ8©é³§Ê-
+>squid:S2386"Make this member "protected".(¾ïÚûÿÿÿÿ8¡«ƒ¦Ê-
+2squid:S2386"Make this member "protected".(Ùÿû
+Ksquid:S1444"1Make this "public static eventsTable" field final(Í÷ Ÿúÿÿÿÿ
+7squid:S2386"Make this member "protected".(Í÷ Ÿúÿÿÿÿ

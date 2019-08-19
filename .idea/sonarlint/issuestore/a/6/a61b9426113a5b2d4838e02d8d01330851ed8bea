@@ -1,0 +1,6 @@
+
+Lsquid:S1481"7Remove this unused "usersAdministrator" local variable.(…Êª
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œò„×şÿÿÿÿ8Áû¯¨Ê-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ê¬¸¹üÿÿÿÿ8Áû¯¨Ê-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ßµè“üÿÿÿÿ8³„¿§Ê-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºİ×›8´ßÄ§Ê-
